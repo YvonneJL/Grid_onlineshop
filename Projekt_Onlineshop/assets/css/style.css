@@ -170,6 +170,6 @@ footer span:first-child {
     background-color: #e2e2e265;
   }
 
-  .container:hover .overlay {
+ .container:hover .overlay {
     opacity: 1;
   }
